@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "investment-advisor-361719",
+  "private_key_id": "a8111ade5f4df7bf00363abd9cc637e94fa52963",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4TTvaMcByzOG/\nbR5wBTdfQrOsPkhHw1yrsu6gNi7ihv5odPCtZlm8PjAewNNIFxrMUCR/DPSOK1qN\ntkfYwMq0vl3Nc68WT6h+j3IVXbiXyNFGdo9I5idYSSX3E5+wc9hnECGjBUMceWTF\ntQKkWbHs+hyjxw/Uzubh6Sh4ctdrKAdzdFsoYRj8lAQDG+mr3fY5FXBIjLDFJuTh\nn9/GKdt8iGeHNxgD2Nu851tO1FXRKztLJrz7/4JIDj6jCnUAFpbPHkJ3czH/ZG3e\nwBFEy2Ad0wDs22kfYKdvuA9/zm2Wzn2wiZizGuwL+nSbr6gEjugXdFyvq5UR123l\n21qrzqVTAgMBAAECggEAKkNHwNrc01aJRADtVGnVz0n38r0bjR1PIG55SxLxwG+N\nYn3CfTj1xfWKylqUeLkXo5eTLvFVGU72xn1wz1MyiK0IzKbFFTwyGsehNSYXQPND\njkF8zQ4+IoAvrQ96dJe0Hbo0xHHd+GccBTxjfTW2V+3o6GOrDTVe+5ogdjJ7lK4m\n9TkwuP0Ne1DvpfPs0aZ7QFbzMSJUK+pra9i9EL/Rj++VxeCPUTrqN8BqqfHfWJs5\nvPfvAKXQb7EKttPXRQ5omkBt8ddpp8xY9xwHl6F75iqE6x4ULmlDwex5mWAkeLOi\nwu+AwlDU3Gf2a0pAc2cgZYaORx5PFhoMGeMlRQupwQKBgQDlk6NZW+Jg5KRluhY9\nsHus4uONw0WW5KcY0YKDFTX05e/5XI5zQLevZpptHb7R52T+bE4Fba/0Hly+2Lbp\n+bATpuPLZinbIyn1D5iovqisI0UCd6KQGl4hhEOgU/vT7vMD6j1bN/pW3RpbRBVN\n/x6bwsym8BIaQJriyCFnUHcoEwKBgQDNg5cXYNMzhIxRRDv495sQP9Ee9ySnC2g1\nF4fJDh2EzGvbRaB9R8Ez7E1iHvwG6nRbRf6truIrCkhQYKlgk8g358dPVJU6J2Rn\n50QdvZtBGMq8opFCWfGdG9Y4IspVKdXy3JmHrUzecY8lfesvDt/Va4787otqGYTv\njS13T0y1wQKBgQDHWk21UdmhQ8oR3+ZiSTcL6LWqq09peUI0hfGr/CYvc9/PjHTS\nVfdrY1BjwjmqMiH74HZbtmTdOeRVgQBM6pngZsJWJG/iL4XGnHV2yqDTYYkSXGqY\ncZ0dw6mptmPuJAd4ddYzuMc02KiDafqKESg2H5DwwXUmwMT+esSu3yupawKBgHqF\nS+ttFxyslfbRBiwMec57LVIXpytLWqnkSFht6N1F/bswzFhEEgPBifTIYhpBZnMP\nzKCBFWbxb2Ez72abVA84SBOcaobL+0kSkAJnCosJm7xP8ueqtaejc9ftrdCN63Yp\nXAKOJ7ip3NxOMIrShFE5GXrjQAxWAHHMKeHqTeJBAoGBAMMI7gxZ+HF8f416lAu7\nAAxGH/A+OExogNCLTZljhg4fQrApCi/hb5wVk6RK08iCFJ6ZqvsSZMTEjUK1vE+d\nHJ16ZAtLuwFQhgSmd+wCibAqv/0WuEp4bopKxhz8jf0U7Gn/VcRaLk8Ws6173SRD\nSv2Uo5TjhT7+ULI9YOrfVwBS\n-----END PRIVATE KEY-----\n",
+  "client_email": "ritzking@investment-advisor-361719.iam.gserviceaccount.com",
+  "client_id": "112895825445419355997",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ritzking%40investment-advisor-361719.iam.gserviceaccount.com"
+}
